@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCropperLibrary", "Imag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCropperWPF", "ImageCropperWPF\ImageCropperWPF.csproj", "{52CCEE41-B494-46B1-8BD0-6D443771D58E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCropperMAUI", "ImageCropperMAUI\ImageCropperMAUI.csproj", "{9478C53D-CD70-4BD2-AB53-DE45B1E51B2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{52CCEE41-B494-46B1-8BD0-6D443771D58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52CCEE41-B494-46B1-8BD0-6D443771D58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52CCEE41-B494-46B1-8BD0-6D443771D58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9478C53D-CD70-4BD2-AB53-DE45B1E51B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9478C53D-CD70-4BD2-AB53-DE45B1E51B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9478C53D-CD70-4BD2-AB53-DE45B1E51B2B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9478C53D-CD70-4BD2-AB53-DE45B1E51B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9478C53D-CD70-4BD2-AB53-DE45B1E51B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9478C53D-CD70-4BD2-AB53-DE45B1E51B2B}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
